@@ -49,7 +49,7 @@ def sexTobin(val):
     return toReturn
 
 #Reading Data
-df = pd.read_csv(r'D:\Interview Prep\Project\Credit Default\UCI_Credit_Card.csv')
+df = pd.read_csv('UCI_Credit_Card.csv')
 
 #Preparing Features for Visualization
 df['LIMIT_BAL'] = df['LIMIT_BAL'].apply(balTobin)
