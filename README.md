@@ -2,6 +2,10 @@
 
 This project is designed to help users analyze credit default data. The data set contains information on credit card clients in Taiwan in the year 2005. It includes information on the clients' credit limit, sex, education, marriage status, age, and whether they defaulted on their credit card payment the following month.
 
+Live App Link: https://bit.ly/CreditDefaultAnalysis
+
+Dataset: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
+
 ## Requirements
 
 To run this project, you will need the following:
@@ -13,7 +17,7 @@ To run this project, you will need the following:
 
 First, clone this repository to your local machine:
 
-    git clone https://github.com/<your-username>/credit-default-analysis.git
+    git clone https://github.com/LordGav/credit-default-analysis.git
 
 Next, navigate to the project directory and install the required libraries:
 
